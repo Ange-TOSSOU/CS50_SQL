@@ -1,5 +1,5 @@
 # CS50 SQL 2024
-CS50 SQL is an introduction to databases with SQL delivered by the Harvard University which covered a wide range of topics :
+CS50 SQL is an introduction to databases with SQL delivered by the Harvard University which covered a wide range of topics and DBMSs :
 - Relational databases
 - Performance
 - Scalability
@@ -17,4 +17,4 @@ I created this repository to store all my solutions for those problems. Feel fre
 ### Week 0 \- Querying : Problem Set 0
 
 
-[cs50x_material]: https://cs50.harvard.edu/sql/2024
+[cs50_material]: https://cs50.harvard.edu/sql/2024
