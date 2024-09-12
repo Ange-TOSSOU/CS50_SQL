@@ -20,4 +20,4 @@ I created this repository to store all my solutions for those problems. Feel fre
 
 [cs50_material]: https://cs50.harvard.edu/sql/2024
 
-[cyberchase]: https://github.com/Ange-TOSSOU/CS50_SQL/Week_0/Cyberchase
+[cyberchase]: https://github.com/Ange-TOSSOU/CS50_SQL/tree/main/Week_0/Cyberchase
