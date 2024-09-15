@@ -24,4 +24,4 @@ I created this repository to store all my solutions for those problems. Feel fre
 
 [cyberchase]: https://github.com/Ange-TOSSOU/CS50_SQL/tree/main/Week_0/Cyberchase
 [36_views]: https://github.com/Ange-TOSSOU/CS50_SQL/tree/main/Week_0/36_Views
-[normals]: https://github.com/Ange-TOSSOU/CS50_SQL/tree/main/Week_0/normals
+[normals]: https://github.com/Ange-TOSSOU/CS50_SQL/tree/main/Week_0/Normals
