@@ -16,8 +16,10 @@ I created this repository to store all my solutions for those problems. Feel fre
 ## My problem sets solutions
 ### Week 0 \- Querying : Problem Set 0
 - [Cyberchase][cyberchase]
+- [36 Views][36_views]
 
 
 [cs50_material]: https://cs50.harvard.edu/sql/2024
 
 [cyberchase]: https://github.com/Ange-TOSSOU/CS50_SQL/tree/main/Week_0/Cyberchase
+[36_views]: https://github.com/Ange-TOSSOU/CS50_SQL/tree/main/Week_0/36_Views
